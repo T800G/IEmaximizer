@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{0FD29E91-D94F-45b4-8B60-D89E8B4E064A}") = "IEmaximizer", "IEmaximizer\IEmaximizer.vcproj", "{A99C77BF-5338-40d8-98FD-9F7143025FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A99C77BF-5338-40d8-98FD-9F7143025FCF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A99C77BF-5338-40d8-98FD-9F7143025FCF}.Debug|Win32.Build.0 = Debug|Win32
+		{A99C77BF-5338-40d8-98FD-9F7143025FCF}.Release|Win32.ActiveCfg = Release|Win32
+		{A99C77BF-5338-40d8-98FD-9F7143025FCF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
